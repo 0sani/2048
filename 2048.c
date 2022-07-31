@@ -18,7 +18,7 @@ int score = 0;
 
 int main(void) {
 
-    // srand(time(NULL));
+    srand(time(NULL));
 
     WINDOW *screen;
 
