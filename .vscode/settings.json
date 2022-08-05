@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "time.h": "c",
-        "bit": "c",
-        "cmath": "c",
-        "complex": "c"
-    }
-}
